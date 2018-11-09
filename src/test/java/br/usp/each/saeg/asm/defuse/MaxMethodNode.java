@@ -42,7 +42,7 @@ import org.objectweb.asm.tree.VarInsnNode;
 public class MaxMethodNode extends MethodNode {
 
     public MaxMethodNode() {
-        super(Opcodes.ASM6);
+        super(Opcodes.ASM7);
 
         // set-up
 
